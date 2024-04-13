@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+.contain{
+    background-color: bisque;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    
+}
+input{
+    padding: 10px 10px;
+    width: 100%;
+}
+.nhiet_do{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.detail_nhiet_do{
+    text-align: start;
+}
+.nhiet_do img{
+    width: 200px;
+}
